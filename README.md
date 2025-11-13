@@ -13,7 +13,7 @@ This is program can download picture fome the picture urls
   ./pngDownloder main [the picture urls]
 ## the basic command use
     you best use the input the workPath of the question
-    ''please enter your method[defaultPath]:''
+    'please enter your method[defaultPath]:'
     after your always input the keyborad(enter)
     it's start to running the picture
     your just wait it completet is ok
@@ -23,17 +23,18 @@ This is program can download picture fome the picture urls
    error of HttpError or urllibError(or state code 101 or 403)  
    i can not sovel this Error,sorry
 ## the advance command 
- ### method[defaultPath]
+ ### method[defaultPath]change the defaultPath name 
      the defaultPath name is pjskPng you can create 
      is directory name or you change the pjskPng name
      the any name do your want
      the change defaultPath name question is
      'please enter the path name [pjskPng]:' 
      please ignore 'please input the path []' qusetion
-### method[defaultPath] change the defaultPath name 
+### method[defaultPath] keep the defaultPath name
     or your create the dircetory name pjskPng 
     after your just input the keyborad of enter
     the picture will download finish
+
 
 
 
