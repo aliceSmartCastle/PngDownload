@@ -2,15 +2,16 @@
  This is program can download picture fome the picture urls
  PngDownload use .md
  using is tool on ubuntu bash
+ use the ./pngDownloder --help watch the program help context
+ the program running ubuntu  way is 
+ ./pngDownloder main [the picture urls]
 
 <img width="1350" height="742" alt="螢幕快照 2025-11-13 06-20-29" src="https://github.com/user-attachments/assets/93557136-3d9b-4651-b370-d7ad6f9032e2" />
 
 
 
 
-   use the ./pngDownloder --help watch the program help context
-   the program running ubuntu  way is 
-  ./pngDownloder main [the picture urls]
+  
 ## the basic command use
     you best use the input the workPath of the question
     'please enter your method[defaultPath]:'
