@@ -1,7 +1,7 @@
 # ubuntu runing 
  This is program can download picture fome the picture urls
  PngDownload use .md
- using is tool on ubuntu bash\n
+ using is tool on ubuntu bash  
  use the ./pngDownloder --help watch the program help context
  the program running ubuntu  way is 
  ./pngDownloder main [the picture urls]
