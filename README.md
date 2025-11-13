@@ -41,6 +41,15 @@
      is specify customer Path picture dowload path location on your computer
      after your just input the question 'please input the path []:'   
      another question please ignore it
+ #  Windows 11
+ ## first running the cmd of your windows
+ 
+<img width="1182" height="461" alt="屏幕截图 2025-11-13 090829" src="https://github.com/user-attachments/assets/855c0aa4-dfd9-427b-ae34-8a0f50e8e174" />
+
+
+
+
+the command use is same of ubuntu
 
 
 
