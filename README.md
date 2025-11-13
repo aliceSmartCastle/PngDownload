@@ -1,7 +1,13 @@
 # PngDownload
 This is program can download picture fome the picture urls
 
-*. using is tool on ubuntu bash<img width="662" height="577" alt="螢幕快照 2025-11-13 05-43-16" src="https://github.com/user-attachments/assets/94fd3bc6-2bfa-413c-a97a-9e56ad88621e" />
+*. using is tool on ubuntu bash
+
+<img width="1350" height="742" alt="螢幕快照 2025-11-13 06-20-29" src="https://github.com/user-attachments/assets/93557136-3d9b-4651-b370-d7ad6f9032e2" />
+
+
+
+
 use the ./pngDownloder --help watch the program help context
 the program running ubuntu  way is 
 ./pngDownloder main [the picture urls]
