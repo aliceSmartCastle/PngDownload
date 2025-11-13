@@ -25,16 +25,22 @@
     i can not sovel this Error,sorry
 ## the advance command 
  ### method[defaultPath]change the defaultPath name 
+     this method is answer the question  
+     please enter your method [defaultPath]:   
      the defaultPath name is pjskPng you can create 
      is directory name or you change the pjskPng name
      the any name do your want
      the change defaultPath name question is
      'please enter the path name [pjskPng]:' 
-     please ignore 'please input the path []' qusetion
+     please ignore 'please input the path []' 
 ### method[defaultPath] keep the defaultPath name
     or your create the dircetory name pjskPng 
     after your just input the keyborad of enter
     the picture will download finish
+ ### method[customerPath]
+     is specify customer Path picture dowload path location on your computer
+     after your just input the question 'please input the path []:'   
+     another question please ignore it
 
 
 
