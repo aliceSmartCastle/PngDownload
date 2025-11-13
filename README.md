@@ -1,7 +1,8 @@
 # PngDownload
 This is program can download picture fome the picture urls
 
-*. using is tool on ubuntu bash
+*.PngDownload use .md
+ using is tool on ubuntu bash
 
 <img width="1350" height="742" alt="螢幕快照 2025-11-13 06-20-29" src="https://github.com/user-attachments/assets/93557136-3d9b-4651-b370-d7ad6f9032e2" />
 
