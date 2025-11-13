@@ -18,10 +18,10 @@ This is program can download picture fome the picture urls
     it's start to running the picture
     your just wait it completet is ok
     finally the picture will download 
-    your working directory,
-   when it downloading mybe during the 
-   error of HttpError or urllibError(or state code 101 or 403)  
-   i can not sovel this Error,sorry
+    your working directory
+    when it downloading mybe during the 
+    error of HttpError or urllibError(or state code 101 or 403)  
+    i can not sovel this Error,sorry
 ## the advance command 
  ### method[defaultPath]change the defaultPath name 
      the defaultPath name is pjskPng you can create 
