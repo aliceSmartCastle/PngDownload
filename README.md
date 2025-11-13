@@ -50,6 +50,10 @@
 
 
 the command use is same of ubuntu
+# the command watchmaindoc
+the command running way is   
+PngDownloader-win64.exe watchmaindoc
+it's explain the every pathmethod infomation in the program inside
 
 
 
