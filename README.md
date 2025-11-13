@@ -8,10 +8,10 @@ This is program can download picture fome the picture urls
 
 
 
-* use the ./pngDownloder --help watch the program help context
+# use the ./pngDownloder --help watch the program help context
    the program running ubuntu  way is 
   ./pngDownloder main [the picture urls]
-** the basic command use
+## the basic command use
     you best use the input the workPath of the question
     please enter your method[defaultPath]:
     after your always input the keyborad(enter)
@@ -22,16 +22,16 @@ This is program can download picture fome the picture urls
    when it downloading mybe during the 
    error of HttpError or urllibError(or state code 101 or 403)  
    i can not sovel this Error,sorry
-** the advance command 
+## the advance command 
    the defaultPath name is pjskPng you can create 
    is directory name or you change the pjskPng name
    the any name do your want
    the change defaultPath name question is
    please enter the path name [pjskPng]:
    please ignore 'please input the path []' qusetion
-*** or your create the dircetory name pjskPng 
-   after your just input the keyborad of enter
-   the picture will download finish
+### or your create the dircetory name pjskPng 
+    after your just input the keyborad of enter
+    the picture will download finish
 
 
 
