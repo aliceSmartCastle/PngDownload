@@ -21,13 +21,13 @@
     finally the picture will download 
     your working directory
     when it downloading mybe during the 
-    error of HttpError or urllibError(or state code 101 or 403)  
+    error of HttpError or urllibError(or state code 101)  
     i can not sovel this Error,sorry
 ## Refer_wedsite
-it's default value is 'None' it use to your want picture address on address main
-wedsite,if Refer_wedsite is 'None',it standard for the default download picture main wedsite
-if you want to use the other wedsite no default picture main wedsite,please input the your download
-picture main wedsite nya
+it's default value is 'None' in wedsite domain,
+if Refer_wedsite is 'None',it standard for the default download picture wedsite domain
+if you want to use the other wedsite no default wedsite,please input the your download wedsite
+picture domain nya~
 ## the advance command 
  ### method[defaultPath]change the defaultPath name 
      this method is answer the question  
