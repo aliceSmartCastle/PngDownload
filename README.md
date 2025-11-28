@@ -23,6 +23,11 @@
     when it downloading mybe during the 
     error of HttpError or urllibError(or state code 101 or 403)  
     i can not sovel this Error,sorry
+## Refer_wedsite
+it's default value is 'None' it use to your want picture address on address main
+wedsite,if Refer_wedsite is 'None',it standard for the default download picture main wedsite
+if you want to use the other wedsite no default picture main wedsite,please input the your download
+picture main wedsite nya
 ## the advance command 
  ### method[defaultPath]change the defaultPath name 
      this method is answer the question  
@@ -50,7 +55,7 @@
 
 
 the command use is same of ubuntu
-# the command watchmaindoc
+# the command maindDoc
 the command running way is   
 PngDownloader-win64.exe watchmaindoc
 it's explain the every pathmethod infomation in the program inside
