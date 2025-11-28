@@ -24,10 +24,10 @@
     error of HttpError or urllibError(or state code 101)  
     i can not sovel this Error,sorry
 ## Refer_wedsite
-it's default value is 'None' in wedsite domain,
-if Refer_wedsite is 'None',it standard for the default download picture wedsite domain
-if you want to use the other wedsite no default wedsite,please input the your download wedsite
-picture domain nya~
+   it's default value is 'None' in wedsite domain,
+   if Refer_wedsite is 'None',it standard for the default download picture wedsite domain
+   if you want to use the other wedsite no default wedsite,please input the your download wedsite
+   picture domain nya~
 ## the advance command 
  ### method[defaultPath]change the defaultPath name 
      this method is answer the question  
